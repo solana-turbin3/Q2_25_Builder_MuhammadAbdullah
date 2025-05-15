@@ -12,6 +12,9 @@ A Solana-based staking protocol that allows users to stake their assets while au
 
 *The whole Idea is WIP.
 
+## Devnet Deployment Address
+HZmz2fQD7q7GK9A33k5jMu1VSHTEtDNu5Mu9ji5arh3m
+
 ## Prerequisites
 
 - Rust
